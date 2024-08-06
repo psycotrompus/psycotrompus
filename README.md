@@ -6,7 +6,7 @@
 - Proficient at various technologies
 - Experienced in different industries
 
-## :wrench: Technical Proficient
+## :wrench: Technically Proficient
 
 - Using multiple platforms and programming languages
 - using frontend
